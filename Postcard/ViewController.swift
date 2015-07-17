@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Postcard
 //
-//  Created by Baris Gultekin on 7/14/15.
-//  Copyright (c) 2015 Baris Gultekin. All rights reserved.
+//  Created by barisg on 7/14/15.
+//  Copyright (c) 2015 barisg. All rights reserved.
 //
 
 import UIKit
